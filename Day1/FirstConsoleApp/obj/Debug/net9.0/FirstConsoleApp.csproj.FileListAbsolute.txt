@@ -1,0 +1,15 @@
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.exe
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.runtimeconfig.json
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\obj\Debug\net9.0\refint\FirstConsoleApp.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.genruntimeconfig.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\FirstConsoleApp\obj\Debug\net9.0\ref\FirstConsoleApp.dll
