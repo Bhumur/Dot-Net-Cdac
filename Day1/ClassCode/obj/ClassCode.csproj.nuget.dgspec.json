@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\ClassCode.csproj": {}
+    "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\ClassCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\ClassCode.csproj": {
+    "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\ClassCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\ClassCode.csproj",
+        "projectUniqueName": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\ClassCode.csproj",
         "projectName": "ClassCode",
-        "projectPath": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\ClassCode.csproj",
-        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\obj\\",
+        "projectPath": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\ClassCode.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

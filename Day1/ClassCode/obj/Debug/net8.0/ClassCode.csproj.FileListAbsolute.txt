@@ -1,0 +1,15 @@
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\bin\Debug\net8.0\ClassCode.exe
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\bin\Debug\net8.0\ClassCode.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\bin\Debug\net8.0\ClassCode.runtimeconfig.json
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\bin\Debug\net8.0\ClassCode.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\bin\Debug\net8.0\ClassCode.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\obj\Debug\net8.0\ClassCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\obj\Debug\net8.0\ClassCode.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\obj\Debug\net8.0\ClassCode.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\obj\Debug\net8.0\ClassCode.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\obj\Debug\net8.0\ClassCode.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\obj\Debug\net8.0\ClassCode.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\obj\Debug\net8.0\refint\ClassCode.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\obj\Debug\net8.0\ClassCode.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\obj\Debug\net8.0\ClassCode.genruntimeconfig.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\ClassCode\obj\Debug\net8.0\ref\ClassCode.dll

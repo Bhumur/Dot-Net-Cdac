@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Day1\\",
+  "WorkspaceRootPath": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB44ABC7-4583-4DAA-A7C1-198B1C851359}|ClassCode\\ClassCode.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\day1\\classcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40B55D57-493C-4B38-BEDD-3C7180FAB770}|Properties\\Properties.csproj|e:\\cdac\\.net\\dot-net-cdac\\day1\\properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B55D57-493C-4B38-BEDD-3C7180FAB770}|Properties\\Properties.csproj|solutionrelative:properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8F5A12-20CA-4D5A-A91A-3B4F8AA62C7E}|ClassCode1\\ClassCode1.csproj|e:\\cdac\\.net\\dot-net-cdac\\day1\\classcode1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8F5A12-20CA-4D5A-A91A-3B4F8AA62C7E}|ClassCode1\\ClassCode1.csproj|solutionrelative:classcode1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB44ABC7-4583-4DAA-A7C1-198B1C851359}|ClassCode\\ClassCode.csproj|e:\\cdac\\.net\\dot-net-cdac\\day1\\classcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB44ABC7-4583-4DAA-A7C1-198B1C851359}|ClassCode\\ClassCode.csproj|solutionrelative:classcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9714B54F-E1F1-4015-B018-DADDAA533B37}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\day1\\firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9714B54F-E1F1-4015-B018-DADDAA533B37}|FirstConsoleApp\\FirstConsoleApp.csproj|e:\\cdac\\.net\\dot-net-cdac\\day1\\firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9714B54F-E1F1-4015-B018-DADDAA533B37}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,27 +32,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\Program.cs",
-              "RelativeDocumentMoniker": "ClassCode\\Program.cs",
-              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\Program.cs",
-              "RelativeToolTip": "ClassCode\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\Properties\\Program.cs",
+              "RelativeDocumentMoniker": "Properties\\Program.cs",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\Properties\\Program.cs",
+              "RelativeToolTip": "Properties\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T15:06:54.261Z",
+              "WhenOpened": "2025-06-25T19:46:24.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Day1\\FirstConsoleApp\\Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode1\\Program.cs",
+              "RelativeDocumentMoniker": "ClassCode1\\Program.cs",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode1\\Program.cs",
+              "RelativeToolTip": "ClassCode1\\Program.cs",
+              "ViewState": "AgIAAAAAAACcm5mZmRkUwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:38:37.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\Program.cs",
+              "RelativeDocumentMoniker": "ClassCode\\Program.cs",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\ClassCode\\Program.cs",
+              "RelativeToolTip": "ClassCode\\Program.cs",
+              "ViewState": "AgIAABkAAABgZmZmZmYjwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:06:54.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\FirstConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "FirstConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Day1\\FirstConsoleApp\\Program.cs",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Day1\\FirstConsoleApp\\Program.cs",
               "RelativeToolTip": "FirstConsoleApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:38:28.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T11:38:28.945Z"
             }
           ]
         }

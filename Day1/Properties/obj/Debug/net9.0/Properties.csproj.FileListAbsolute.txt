@@ -1,0 +1,15 @@
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\bin\Debug\net9.0\Properties.exe
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\bin\Debug\net9.0\Properties.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\bin\Debug\net9.0\Properties.runtimeconfig.json
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\bin\Debug\net9.0\Properties.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\bin\Debug\net9.0\Properties.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\obj\Debug\net9.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\obj\Debug\net9.0\Properties.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\obj\Debug\net9.0\Properties.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\obj\Debug\net9.0\Properties.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\obj\Debug\net9.0\Properties.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\obj\Debug\net9.0\Properties.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\obj\Debug\net9.0\refint\Properties.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\obj\Debug\net9.0\Properties.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\obj\Debug\net9.0\Properties.genruntimeconfig.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Day1\Properties\obj\Debug\net9.0\ref\Properties.dll

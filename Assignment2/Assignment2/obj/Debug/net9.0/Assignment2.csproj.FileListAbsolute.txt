@@ -1,0 +1,15 @@
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\bin\Debug\net9.0\Assignment2.exe
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\bin\Debug\net9.0\Assignment2.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\bin\Debug\net9.0\Assignment2.runtimeconfig.json
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\bin\Debug\net9.0\Assignment2.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\bin\Debug\net9.0\Assignment2.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\obj\Debug\net9.0\refint\Assignment2.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.genruntimeconfig.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment2\Assignment2\obj\Debug\net9.0\ref\Assignment2.dll

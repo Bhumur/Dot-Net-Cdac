@@ -1,0 +1,15 @@
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\bin\Debug\net9.0\ClassWork1.exe
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\bin\Debug\net9.0\ClassWork1.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\bin\Debug\net9.0\ClassWork1.runtimeconfig.json
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\bin\Debug\net9.0\ClassWork1.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\bin\Debug\net9.0\ClassWork1.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\obj\Debug\net9.0\ClassWork1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\obj\Debug\net9.0\ClassWork1.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\obj\Debug\net9.0\ClassWork1.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\obj\Debug\net9.0\ClassWork1.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\obj\Debug\net9.0\ClassWork1.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\obj\Debug\net9.0\ClassWork1.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\obj\Debug\net9.0\refint\ClassWork1.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\obj\Debug\net9.0\ClassWork1.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\obj\Debug\net9.0\ClassWork1.genruntimeconfig.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Day3\ClassWork1\obj\Debug\net9.0\ref\ClassWork1.dll

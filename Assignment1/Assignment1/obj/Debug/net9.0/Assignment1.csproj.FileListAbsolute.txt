@@ -1,0 +1,15 @@
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\bin\Debug\net9.0\Assignment1.exe
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\bin\Debug\net9.0\Assignment1.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\bin\Debug\net9.0\Assignment1.runtimeconfig.json
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\bin\Debug\net9.0\Assignment1.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\bin\Debug\net9.0\Assignment1.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\obj\Debug\net9.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\obj\Debug\net9.0\Assignment1.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\obj\Debug\net9.0\Assignment1.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\obj\Debug\net9.0\Assignment1.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\obj\Debug\net9.0\Assignment1.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\obj\Debug\net9.0\Assignment1.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\obj\Debug\net9.0\refint\Assignment1.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\obj\Debug\net9.0\Assignment1.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\obj\Debug\net9.0\Assignment1.genruntimeconfig.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment1\Assignment1\obj\Debug\net9.0\ref\Assignment1.dll
