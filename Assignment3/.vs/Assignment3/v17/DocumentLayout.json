@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A374F9FB-A81A-4396-99C6-9334C6538496}|EmployeeClasses\\EmployeeClasses.csproj|e:\\cdac\\.net\\dot-net-cdac\\assignment3\\employeeclasses\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A374F9FB-A81A-4396-99C6-9334C6538496}|EmployeeClasses\\EmployeeClasses.csproj|solutionrelative:employeeclasses\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139D68D2-2C69-470C-893C-1D91A6BE7727}|Assignment3\\Assignment3.csproj|e:\\cdac\\.net\\dot-net-cdac\\assignment3\\assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139D68D2-2C69-470C-893C-1D91A6BE7727}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Assignment3\\EmployeeClasses\\Class1.cs",
+              "RelativeDocumentMoniker": "EmployeeClasses\\Class1.cs",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Assignment3\\EmployeeClasses\\Class1.cs",
+              "RelativeToolTip": "EmployeeClasses\\Class1.cs",
+              "ViewState": "AgIAAG8AAAAAZmZmZmYkwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:17:16.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Assignment3\\Assignment3\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Program.cs",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Assignment3\\Assignment3\\Program.cs",
+              "RelativeToolTip": "Assignment3\\Program.cs",
+              "ViewState": "AgIAAI4AAADAOTMzM7MhwBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:16:22.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,8 +4,22 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int a = 1;
+            int b = 2;
+            Console.WriteLine(a + " " + b);
+            Swap(ref a, ref b);
+            Console.WriteLine(a + " " + b);
+        }
+        static void Swap(ref int a, ref int b)
+        {
+            int temp = a;
+            a = b;
+            b = temp;
         }
     }
 }
-
+namespace Hello
+{
+    
+    
+}

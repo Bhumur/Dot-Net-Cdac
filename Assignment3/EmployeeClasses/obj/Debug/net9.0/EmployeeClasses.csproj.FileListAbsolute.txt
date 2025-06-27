@@ -1,0 +1,12 @@
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment3\EmployeeClasses\bin\Debug\net9.0\EmployeeClasses.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment3\EmployeeClasses\bin\Debug\net9.0\EmployeeClasses.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment3\EmployeeClasses\bin\Debug\net9.0\EmployeeClasses.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment3\EmployeeClasses\obj\Debug\net9.0\EmployeeClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment3\EmployeeClasses\obj\Debug\net9.0\EmployeeClasses.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment3\EmployeeClasses\obj\Debug\net9.0\EmployeeClasses.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment3\EmployeeClasses\obj\Debug\net9.0\EmployeeClasses.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment3\EmployeeClasses\obj\Debug\net9.0\EmployeeClasses.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment3\EmployeeClasses\obj\Debug\net9.0\EmployeeClasses.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment3\EmployeeClasses\obj\Debug\net9.0\refint\EmployeeClasses.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment3\EmployeeClasses\obj\Debug\net9.0\EmployeeClasses.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Assignment3\EmployeeClasses\obj\Debug\net9.0\ref\EmployeeClasses.dll
