@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Assignment_ExceptionHandling/1.0.0": {
+        "dependencies": {
+          "EmployeeClasses": "1.0.0"
+        },
+        "runtime": {
+          "Assignment_ExceptionHandling.dll": {}
+        }
+      },
+      "EmployeeClasses/1.0.0": {
+        "runtime": {
+          "EmployeeClasses.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment_ExceptionHandling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

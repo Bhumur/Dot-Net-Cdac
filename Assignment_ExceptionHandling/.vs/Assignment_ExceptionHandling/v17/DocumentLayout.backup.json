@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Assignment_ExceptionHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF8556E-4C52-46AE-80CC-F6F10844CE0A}|Assignment_ExceptionHandling\\Assignment_ExceptionHandling.csproj|e:\\cdac\\.net\\dot-net-cdac\\assignment_exceptionhandling\\assignment_exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF8556E-4C52-46AE-80CC-F6F10844CE0A}|Assignment_ExceptionHandling\\Assignment_ExceptionHandling.csproj|solutionrelative:assignment_exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27525244-1101-45FF-187F-F6F9F1CFAC0C}|..\\Assignment3\\EmployeeClasses\\EmployeeClasses.csproj|e:\\cdac\\.net\\dot-net-cdac\\assignment3\\employeeclasses\\employeeclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeClasses.cs",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Assignment3\\EmployeeClasses\\EmployeeClasses.cs",
+              "RelativeDocumentMoniker": "..\\Assignment3\\EmployeeClasses\\EmployeeClasses.cs",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Assignment3\\EmployeeClasses\\EmployeeClasses.cs",
+              "RelativeToolTip": "..\\Assignment3\\EmployeeClasses\\EmployeeClasses.cs",
+              "ViewState": "AgIAACcAAACABwAAAAAWwOwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:20:39.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Assignment_ExceptionHandling\\Assignment_ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_ExceptionHandling\\Program.cs",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Assignment_ExceptionHandling\\Assignment_ExceptionHandling\\Program.cs",
+              "RelativeToolTip": "Assignment_ExceptionHandling\\Program.cs",
+              "ViewState": "AgIAAHEAAAAAVM3MzMzwv4IAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:18:41.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

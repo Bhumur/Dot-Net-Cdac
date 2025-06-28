@@ -1,4 +1,5 @@
-﻿using System.Reflection.Metadata.Ecma335;
+﻿using AllExceptions;
+using System.Reflection.Metadata.Ecma335;
 using System.Transactions;
 
 namespace EmployeeClasses
@@ -26,7 +27,7 @@ namespace EmployeeClasses
             {
                 if (value == "")
                 {
-                    throw new Exception("Provide name");
+                    throw new InvalidNameException("Provide name");
                 }else
                 {
                     name= value;
@@ -52,7 +53,7 @@ namespace EmployeeClasses
             {
                 if(value < 1)
                 {
-                    throw new Exception("Department Number can't be 0 or negative");
+                    throw new InvalidDepartmentNumberException("Department Number can't be 0 or negative");
                 }
                 deptno = value;
             }
@@ -67,10 +68,8 @@ namespace EmployeeClasses
             this.DeptNo = deptno;
         }
         public abstract decimal CalcNetSalary();
-
         public abstract void Print();
         public abstract void Update();
-
         public abstract void Delete();
     }
 
@@ -89,7 +88,7 @@ namespace EmployeeClasses
             {
                 if(value == "")
                 {
-                    throw new Exception("Provide Designation");
+                    throw new InvalidDesignationException("Provide Designation");
                 }else
                 {
                     designation = value;
@@ -106,7 +105,7 @@ namespace EmployeeClasses
             {
                 if (value < 100000)
                 {
-                    throw new Exception("CEO Salary is Low");
+                    throw new InvalidBasicException("CEO Salary is Low");
                 }
                 else
                 {
@@ -159,7 +158,7 @@ namespace EmployeeClasses
         {
             get
             {
-                return this.perks;
+                return this.perks!;
             }
             set
             {
@@ -176,7 +175,7 @@ namespace EmployeeClasses
             {
                 if (value < 1000000)
                 {
-                    throw new Exception("CEO Salary is Low");
+                    throw new InvalidBasicException("GM Salary is Low");
                 }
                 else
                 {
@@ -235,7 +234,7 @@ namespace EmployeeClasses
             {
                 if(value<10000000)
                 {
-                    throw new Exception("CEO Salary is Low");
+                    throw new InvalidBasicException("CEO Salary is Low");
                 }
                 else
                 {
@@ -275,3 +274,28 @@ namespace EmployeeClasses
         }
     }
 }
+
+namespace AllExceptions
+{
+    public class InvalidNameException : ApplicationException
+    {
+        public InvalidNameException(String message):base(message) { }
+    }
+
+
+    public class InvalidDepartmentNumberException : ApplicationException
+    {
+        public InvalidDepartmentNumberException(String message) : base(message) { }
+    }
+
+    public class InvalidBasicException : ApplicationException
+    {
+        public InvalidBasicException(String message) : base(message) { }
+    }
+    
+    public class InvalidDesignationException : ApplicationException
+    {
+        public InvalidDesignationException(String message) : base(message) { }
+    }
+}
+
