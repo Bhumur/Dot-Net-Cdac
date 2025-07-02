@@ -1,0 +1,15 @@
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\bin\Debug\net9.0\Task.exe
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\bin\Debug\net9.0\Task.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\bin\Debug\net9.0\Task.runtimeconfig.json
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\bin\Debug\net9.0\Task.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\bin\Debug\net9.0\Task.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\obj\Debug\net9.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\obj\Debug\net9.0\Task.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\obj\Debug\net9.0\Task.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\obj\Debug\net9.0\Task.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\obj\Debug\net9.0\Task.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\obj\Debug\net9.0\Task.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\obj\Debug\net9.0\refint\Task.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\obj\Debug\net9.0\Task.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\obj\Debug\net9.0\Task.genruntimeconfig.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task\obj\Debug\net9.0\ref\Task.dll

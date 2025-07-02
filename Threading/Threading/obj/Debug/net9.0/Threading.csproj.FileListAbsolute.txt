@@ -1,0 +1,15 @@
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\bin\Debug\net9.0\Threading.exe
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\bin\Debug\net9.0\Threading.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\bin\Debug\net9.0\Threading.runtimeconfig.json
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\bin\Debug\net9.0\Threading.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\bin\Debug\net9.0\Threading.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\obj\Debug\net9.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\obj\Debug\net9.0\Threading.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\obj\Debug\net9.0\Threading.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\obj\Debug\net9.0\Threading.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\obj\Debug\net9.0\Threading.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\obj\Debug\net9.0\Threading.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\obj\Debug\net9.0\refint\Threading.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\obj\Debug\net9.0\Threading.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\obj\Debug\net9.0\Threading.genruntimeconfig.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Threading\obj\Debug\net9.0\ref\Threading.dll

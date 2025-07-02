@@ -1,0 +1,15 @@
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\bin\Debug\net9.0\Operator_Overloading_Example.exe
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\bin\Debug\net9.0\Operator_Overloading_Example.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\bin\Debug\net9.0\Operator_Overloading_Example.runtimeconfig.json
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\bin\Debug\net9.0\Operator_Overloading_Example.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\bin\Debug\net9.0\Operator_Overloading_Example.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\refint\Operator_Overloading_Example.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example.genruntimeconfig.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\ref\Operator_Overloading_Example.dll

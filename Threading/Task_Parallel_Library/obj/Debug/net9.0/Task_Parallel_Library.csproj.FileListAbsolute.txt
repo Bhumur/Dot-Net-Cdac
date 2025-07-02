@@ -1,0 +1,15 @@
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\bin\Debug\net9.0\Task_Parallel_Library.exe
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\bin\Debug\net9.0\Task_Parallel_Library.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\bin\Debug\net9.0\Task_Parallel_Library.runtimeconfig.json
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\bin\Debug\net9.0\Task_Parallel_Library.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\bin\Debug\net9.0\Task_Parallel_Library.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\obj\Debug\net9.0\Task_Parallel_Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\obj\Debug\net9.0\Task_Parallel_Library.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\obj\Debug\net9.0\Task_Parallel_Library.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\obj\Debug\net9.0\Task_Parallel_Library.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\obj\Debug\net9.0\Task_Parallel_Library.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\obj\Debug\net9.0\Task_Parallel_Library.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\obj\Debug\net9.0\refint\Task_Parallel_Library.dll
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\obj\Debug\net9.0\Task_Parallel_Library.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\obj\Debug\net9.0\Task_Parallel_Library.genruntimeconfig.cache
+E:\CDAC\.Net\Dot-Net-Cdac\Threading\Task_Parallel_Library\obj\Debug\net9.0\ref\Task_Parallel_Library.dll

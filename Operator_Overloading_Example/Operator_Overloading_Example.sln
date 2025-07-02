@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator_Overloading_Example_With_Despose", "Operator_Overloading_Example\Operator_Overloading_Example_With_Despose.csproj", "{323B4C8E-6604-4D68-B117-88E9658B2005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323B4C8E-6604-4D68-B117-88E9658B2005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323B4C8E-6604-4D68-B117-88E9658B2005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323B4C8E-6604-4D68-B117-88E9658B2005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323B4C8E-6604-4D68-B117-88E9658B2005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65863473-C55A-4021-AFAF-5D2E8FA98598}
+	EndGlobalSection
+EndGlobal
