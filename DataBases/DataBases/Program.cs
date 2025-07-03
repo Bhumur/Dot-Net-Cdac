@@ -11,6 +11,88 @@ namespace DataBases
             do
             {
                 Console.WriteLine();
+                Console.WriteLine("OPTIONS :-");
+                Console.WriteLine("1. Add Employee");
+                Console.WriteLine("2. Update Employee");
+                Console.WriteLine("3. Show Employee With EmpNo");
+                Console.WriteLine("4. Delete Employee with EmpNo");
+                Console.WriteLine("5. Show All Employees");
+                Console.WriteLine("6. Show All Employees with Department Number");
+                Console.WriteLine();
+                Console.Write("Enter Your Choice :- ");
+                op = Convert.ToInt32(Console.ReadLine());
+                switch (op)
+                {
+                    case 1:
+                        {
+                            Console.WriteLine("-----Adding Employee------");
+                            Console.Write("Enter Employee Number    : ");
+                            int empno = Convert.ToInt32(Console.ReadLine());
+                            Console.Write("Enter Employee Name      : ");
+                            string name = Console.ReadLine();
+                            Console.Write("Enter Employee Basic     : ");
+                            decimal basic = Convert.ToDecimal(Console.ReadLine());
+                            Console.Write("Enter Department Number  : ");
+                            int deptno = Convert.ToInt32(Console.ReadLine());
+                            Employee emp = new Employee() { Name=name, EmpNo=empno, Basic=basic, DeptNo=deptno};
+                            InsertWithStoreProcedure(emp);
+                            break;
+                        }
+                    case 2:
+                        {
+                            Console.WriteLine("-----Update Employee------");
+                            Console.Write("Enter Employee Number    : ");
+                            int empno = Convert.ToInt32(Console.ReadLine());
+                            Console.Write("Enter Employee Name      : ");
+                            string name = Console.ReadLine();
+                            Console.Write("Enter Employee Basic     : ");
+                            decimal basic = Convert.ToDecimal(Console.ReadLine());
+                            Console.Write("Enter Department Number  : ");
+                            int deptno = Convert.ToInt32(Console.ReadLine());
+                            Employee emp = new Employee() { Name = name, EmpNo = empno, Basic = basic, DeptNo = deptno };
+                            UpdateWithParameter(emp);
+                            break;
+                        }
+                    case 3:
+                        {
+                            Console.WriteLine("-----Show Employee With EmpNo------");
+                            Console.Write("Enter Employee Number    : ");
+                            int empno = Convert.ToInt32(Console.ReadLine());
+                            SelectEmployeeWithEmpno(empno);
+                            break;
+                        }
+                    case 4:
+                        {
+                            Console.WriteLine("-----Delete Employee With EmpNo------");
+                            Console.Write("Enter Employee Number    : ");
+                            int empno = Convert.ToInt32(Console.ReadLine());
+                            DeleteWithEmpNo(empno);
+                            break;
+                        }
+                    case 5:
+                        {
+                            Console.WriteLine("-----Show All Employees------");
+                            ShowAllEmployee();
+                            break;
+                        }
+                    case 6:
+                        {
+                            Console.WriteLine("-----Show All Employees With Department Number------");
+                            Console.Write("Enter Department Number    : ");
+                            int deptno = Convert.ToInt32(Console.ReadLine());
+                            ShowAllEmployeeWithDeptNo(deptno);
+                            break;
+                        }
+                    case 0:
+                        {
+                            break;
+                        }
+                    default:
+                        {
+                            Console.WriteLine("INVALID INPUT");
+                            break;
+                        }
+                }
             } while (op != 0);
 
             //Connect();
@@ -38,7 +120,7 @@ namespace DataBases
 
             //SelectSqlDATAREADER();
 
-            SelectMARS();
+            //SelectMARS();
         }
 
         public class Employee
@@ -135,7 +217,6 @@ namespace DataBases
         {
             SqlConnection conn = new SqlConnection();
 
-            // Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False
             conn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;";
 
             try
@@ -170,8 +251,6 @@ namespace DataBases
         static void UpdateWithParameter(Employee obj)
         {
             SqlConnection conn = new SqlConnection();
-
-            // Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False
             conn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;";
 
             try
@@ -180,20 +259,19 @@ namespace DataBases
 
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = conn;
-                //cmd.CommandType = System.Data.CommandType.StoredProcedure;
-                cmd.CommandType = System.Data.CommandType.Text;
-                
-                //cmd.CommandText = "update Employees set Name='@Name', Basic=@Basic, DeptNo=@DeptNo where EmpNo;
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                cmd.CommandText = "UpdateEmployee";
                 cmd.Parameters.AddWithValue("@EmpNo", obj.EmpNo);
                 cmd.Parameters.AddWithValue("@Name", obj.Name);
                 cmd.Parameters.AddWithValue("@Basic", obj.Basic);
                 cmd.Parameters.AddWithValue("@DeptNo", obj.DeptNo);
                 cmd.ExecuteNonQuery();
 
-                Console.WriteLine("Jai Shree Ram");
+                Console.WriteLine("Employee Updated Succesfully....");
             }
             catch (Exception ex)
             {
+                Console.WriteLine("Employee Not Updated....");
                 Console.WriteLine(ex.Message);
             }
             finally
@@ -206,7 +284,6 @@ namespace DataBases
         {
             SqlConnection conn = new SqlConnection();
 
-            // Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False
             conn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;";
 
             try
@@ -215,9 +292,7 @@ namespace DataBases
 
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = conn;
-                //cmd.CommandType = System.Data.CommandType.StoredProcedure;
                 cmd.CommandType = System.Data.CommandType.StoredProcedure;
-                //cmd.CommandText = $"insert into Employees values({obj.EmpNo},'{obj.Name}',{obj.Basic},{obj.DeptNo})";
                 cmd.CommandText = "InsertEmployees";
                 //cmd.CommandText = "insert into Employees values(@EmpNo,@Name,@Basic,@DeptNo)";
                 cmd.Parameters.AddWithValue("@EmpNo", obj.EmpNo);
@@ -226,7 +301,7 @@ namespace DataBases
                 cmd.Parameters.AddWithValue("@DeptNo", obj.DeptNo);
                 cmd.ExecuteNonQuery();
 
-                Console.WriteLine("Jai Shree Ram");
+                Console.WriteLine("Employee Added Successfully....");
             }
             catch (Exception ex)
             {
@@ -285,11 +360,10 @@ namespace DataBases
             }
         }
 
-        static void SelectSqlDATAREADER()
+        static void SelectEmployeeWithEmpno(int EmpNo)
         {
             SqlConnection conn = new SqlConnection();
 
-            // Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False
             conn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;";
 
             try
@@ -299,14 +373,169 @@ namespace DataBases
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = conn;
 
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                cmd.CommandText = "SelectEmployeeWithEmpNo";
+                cmd.Parameters.AddWithValue("@EmpNo", EmpNo);
 
+                SqlDataReader dr = cmd.ExecuteReader();
+
+                if (dr.HasRows && dr.Read())
+                {
+                    Console.WriteLine("Employee Number      : " + dr["EmpNo"]);
+                    Console.WriteLine("Employee Name        : " + dr["Name"]);
+                    Console.WriteLine("Employee Basic       : " + dr["Basic"]);
+                    Console.WriteLine("Employee Department  : " + dr["DeptNo"]);
+                }
+                else
+                {
+                    Console.WriteLine("No Employee Found With Employee Number : "+EmpNo);
+                }
+                //Console.WriteLine("Jai Shree Ram");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
+
+        static void DeleteWithEmpNo(int EmpNo)
+        {
+            SqlConnection conn = new SqlConnection();
+
+            conn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;";
+
+            try
+            {
+                conn.Open();
+
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = conn;
+
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                cmd.CommandText = "DeleteEmployeeWithEmpNo";
+                cmd.Parameters.AddWithValue("@EmpNo", EmpNo);
+
+                if (cmd.ExecuteNonQuery()>0)
+                {
+                    Console.WriteLine("Employee Deleted With Employee Number : " + EmpNo);
+                }
+                else
+                {
+                    Console.WriteLine("No Employee Found With Employee Number : " + EmpNo);
+                }
+                //Console.WriteLine("Jai Shree Ram");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
+
+        static void ShowAllEmployee()
+        {
+            SqlConnection conn = new SqlConnection();
+            conn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;";
+
+            try
+            {
+                conn.Open();
+
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = conn;
 
                 cmd.CommandType = System.Data.CommandType.Text;
                 cmd.CommandText = "select * from Employees";
-                //object retval = cmd.ExecuteScalar();
 
+                SqlDataReader dr = cmd.ExecuteReader();
 
-                
+                while (dr.Read())
+                {
+                    Console.WriteLine();
+                    Console.WriteLine("Employee Number      : " + dr["EmpNo"]);
+                    Console.WriteLine("Employee Name        : " + dr["Name"]);
+                    Console.WriteLine("Employee Basic       : " + dr["Basic"]);
+                    Console.WriteLine("Employee Department  : " + dr["DeptNo"]);
+                    Console.WriteLine();
+                }
+
+                dr.Close();
+
+                //Console.WriteLine("Jai Shree Ram");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
+
+        static void ShowAllEmployeeWithDeptNo(int DeptNo)
+        {
+            SqlConnection conn = new SqlConnection();
+            conn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;";
+
+            try
+            {
+                conn.Open();
+
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = conn;
+
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                cmd.CommandText = "SelectWithDepartmentNumber";
+                cmd.Parameters.AddWithValue("@DeptNo", DeptNo);
+
+                SqlDataReader dr = cmd.ExecuteReader();
+
+                while (dr.Read())
+                {
+                    Console.WriteLine();
+                    Console.WriteLine("Employee Number      : " + dr["EmpNo"]);
+                    Console.WriteLine("Employee Name        : " + dr["Name"]);
+                    Console.WriteLine("Employee Basic       : " + dr["Basic"]);
+                    Console.WriteLine("Employee Department  : " + dr["DeptNo"]);
+                    Console.WriteLine();
+                }
+
+                dr.Close();
+
+                //Console.WriteLine("Jai Shree Ram");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
+        static void SelectSqlDATAREADER()
+        {
+            SqlConnection conn = new SqlConnection();
+            conn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;";
+
+            try
+            {
+                conn.Open();
+
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = conn;
+
+                cmd.CommandType = System.Data.CommandType.Text;
+                cmd.CommandText = "select * from Employees";
+
                 SqlDataReader dr = cmd.ExecuteReader();
 
                 while (dr.Read()) 
@@ -318,11 +547,6 @@ namespace DataBases
                 }
 
                 dr.Close();
-
-
-                //Console.WriteLine(retval);
-
-                cmd.ExecuteNonQuery();
 
                 Console.WriteLine("Jai Shree Ram");
             }

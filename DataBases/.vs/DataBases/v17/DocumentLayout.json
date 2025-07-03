@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\DataBases\\",
+  "WorkspaceRootPath": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\DataBases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1862239-1890-42CE-90AD-D2DA3C7ADE74}|DataBases\\DataBases.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\databases\\databases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{767CEAB8-AB80-4940-8317-64A9C1BCCFAA}|MySqlDatabase\\MySqlDatabase.csproj|e:\\cdac\\.net\\dot-net-cdac\\databases\\mysqldatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767CEAB8-AB80-4940-8317-64A9C1BCCFAA}|MySqlDatabase\\MySqlDatabase.csproj|solutionrelative:mysqldatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1862239-1890-42CE-90AD-D2DA3C7ADE74}|DataBases\\DataBases.csproj|e:\\cdac\\.net\\dot-net-cdac\\databases\\databases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1862239-1890-42CE-90AD-D2DA3C7ADE74}|DataBases\\DataBases.csproj|solutionrelative:databases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\DataBases\\DataBases\\Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\DataBases\\MySqlDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "MySqlDatabase\\Program.cs",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\DataBases\\MySqlDatabase\\Program.cs",
+              "RelativeToolTip": "MySqlDatabase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:21:10.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\DataBases\\DataBases\\Program.cs",
               "RelativeDocumentMoniker": "DataBases\\Program.cs",
-              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\DataBases\\DataBases\\Program.cs",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\DataBases\\DataBases\\Program.cs",
               "RelativeToolTip": "DataBases\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T04:16:56.32Z",
               "EditorCaption": ""
