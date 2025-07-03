@@ -1,0 +1,15 @@
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\bin\Debug\net9.0\FileHandling.exe
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\bin\Debug\net9.0\FileHandling.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\bin\Debug\net9.0\FileHandling.runtimeconfig.json
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\bin\Debug\net9.0\FileHandling.dll
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\bin\Debug\net9.0\FileHandling.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\obj\Debug\net9.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\obj\Debug\net9.0\FileHandling.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\obj\Debug\net9.0\FileHandling.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\obj\Debug\net9.0\FileHandling.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\obj\Debug\net9.0\FileHandling.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\obj\Debug\net9.0\FileHandling.dll
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\obj\Debug\net9.0\refint\FileHandling.dll
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\obj\Debug\net9.0\FileHandling.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\obj\Debug\net9.0\FileHandling.genruntimeconfig.cache
+E:\CDAC\.Net\Dot-Net-Cdac\FileHandling\FileHandling\obj\Debug\net9.0\ref\FileHandling.dll

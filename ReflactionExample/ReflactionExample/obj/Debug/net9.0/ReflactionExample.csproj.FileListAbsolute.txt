@@ -1,0 +1,15 @@
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\bin\Debug\net9.0\ReflactionExample.exe
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\bin\Debug\net9.0\ReflactionExample.deps.json
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\bin\Debug\net9.0\ReflactionExample.runtimeconfig.json
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\bin\Debug\net9.0\ReflactionExample.dll
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\bin\Debug\net9.0\ReflactionExample.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\obj\Debug\net9.0\ReflactionExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\obj\Debug\net9.0\ReflactionExample.AssemblyInfoInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\obj\Debug\net9.0\ReflactionExample.AssemblyInfo.cs
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\obj\Debug\net9.0\ReflactionExample.csproj.CoreCompileInputs.cache
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\obj\Debug\net9.0\ReflactionExample.sourcelink.json
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\obj\Debug\net9.0\ReflactionExample.dll
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\obj\Debug\net9.0\refint\ReflactionExample.dll
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\obj\Debug\net9.0\ReflactionExample.pdb
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\obj\Debug\net9.0\ReflactionExample.genruntimeconfig.cache
+E:\CDAC\.Net\Dot-Net-Cdac\ReflactionExample\ReflactionExample\obj\Debug\net9.0\ref\ReflactionExample.dll
