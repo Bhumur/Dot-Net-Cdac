@@ -31,7 +31,7 @@ namespace WebApplication1
                 name: "default",
                                 //pattern: "{controller=Default}/{action=Index}/{id?}/{a?}/{b?}/{c?}")
                                 //https://localhost:7037/Default/Index/55565?a=122&c=21&b=2
-                                pattern: "{controller=Default}/{action=Index}/{id?}")//QueryString
+                                pattern: "{controller=Default}/{action=Coustom}/{EmpNo?}")//QueryString
 
                 .WithStaticAssets();
 
