@@ -497,7 +497,7 @@ namespace DataBases
                 cmd.Parameters.AddWithValue("@DeptNo", DeptNo);
 
                 SqlDataReader dr = cmd.ExecuteReader();
-
+                List<Employee> list = new List<Employee>();
                 while (dr.Read())
                 {
                     Console.WriteLine();
@@ -506,6 +506,7 @@ namespace DataBases
                     Console.WriteLine("Employee Basic       : " + dr["Basic"]);
                     Console.WriteLine("Employee Department  : " + dr["DeptNo"]);
                     Console.WriteLine();
+                    list.Add(new Employee() {EmpNo= dr.GetInt32("EmpNo"), });
                 }
 
                 dr.Close();
