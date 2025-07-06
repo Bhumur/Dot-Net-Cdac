@@ -1,40 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\",
+  "WorkspaceRootPath": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapplication1\\views\\default\\coustom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|e:\\cdac\\.net\\dot-net-cdac\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|e:\\cdac\\.net\\dot-net-cdac\\webapplication1\\views\\default\\coustom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|solutionrelative:views\\default\\coustom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapplication1\\views\\shared\\coustom_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|e:\\cdac\\.net\\dot-net-cdac\\webapplication1\\views\\shared\\coustom_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|solutionrelative:views\\shared\\coustom_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|e:\\cdac\\.net\\dot-net-cdac\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapplication1\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|e:\\cdac\\.net\\dot-net-cdac\\webapplication1\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ActsJune25/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapplication1\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|e:\\cdac\\.net\\dot-net-cdac\\webapplication1\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|e:\\cdac\\.net\\dot-net-cdac\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|e:\\cdac\\.net\\dot-net-cdac\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0551692E-3BBE-4542-B995-AECDD720EBD4}|WebApplication1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -45,51 +45,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-04T15:19:04.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T15:19:04.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coustom_Layout.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Shared\\Coustom_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Coustom_Layout.cshtml",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Shared\\Coustom_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Coustom_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T15:19:01.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Employees.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ActsJune25/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ActsJune25/True/SqlTable/dbo.Employees.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-04T15:16:40.544Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Coustom_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Shared\\Coustom_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Coustom_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Shared\\Coustom_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Coustom_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-04T15:19:01.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.Employees [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ActsJune25/True/SqlTable/dbo.Employees.sql",
-              "ToolTip": "dbo.Employees [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-07-04T15:16:40.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Coustom.cshtml",
-              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Default\\Coustom.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Default\\Coustom.cshtml",
               "RelativeDocumentMoniker": "Views\\Default\\Coustom.cshtml",
-              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Default\\Coustom.cshtml",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Default\\Coustom.cshtml",
               "RelativeToolTip": "Views\\Default\\Coustom.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -98,39 +95,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Default\\Index.cshtml",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Default\\Index.cshtml",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "Views\\Default\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-04T07:01:46.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "Controllers\\DefaultController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwBgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T06:40:42.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T07:01:46.657Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Controllers\\DefaultController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:40:42.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\Program.cs",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAADgZWZmZmYkwBgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T05:31:32.294Z",
               "EditorCaption": ""
@@ -139,27 +134,25 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\appsettings.json",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\appsettings.json",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-04T05:31:03.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T05:31:03.29Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\appsettings.Development.json",
+              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApplication1\\appsettings.Development.json",
+              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\WebApplication1\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-04T05:30:59.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T05:30:59.041Z"
             }
           ]
         }
