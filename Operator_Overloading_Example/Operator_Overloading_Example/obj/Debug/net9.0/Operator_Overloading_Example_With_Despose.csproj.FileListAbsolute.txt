@@ -1,0 +1,15 @@
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\bin\Debug\net9.0\Operator_Overloading_Example_With_Despose.exe
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\bin\Debug\net9.0\Operator_Overloading_Example_With_Despose.deps.json
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\bin\Debug\net9.0\Operator_Overloading_Example_With_Despose.runtimeconfig.json
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\bin\Debug\net9.0\Operator_Overloading_Example_With_Despose.dll
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\bin\Debug\net9.0\Operator_Overloading_Example_With_Despose.pdb
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example_With_Despose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example_With_Despose.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example_With_Despose.AssemblyInfo.cs
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example_With_Despose.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example_With_Despose.sourcelink.json
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example_With_Despose.dll
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\refint\Operator_Overloading_Example_With_Despose.dll
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example_With_Despose.pdb
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\Operator_Overloading_Example_With_Despose.genruntimeconfig.cache
+C:\Users\dac\Desktop\Batch1\.Net\Dot-Net-Cdac\Operator_Overloading_Example\Operator_Overloading_Example\obj\Debug\net9.0\ref\Operator_Overloading_Example_With_Despose.dll

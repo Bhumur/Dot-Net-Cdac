@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\Operator_Overloading_Example_With_Despose.csproj": {}
+    "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\Operator_Overloading_Example_With_Despose.csproj": {}
   },
   "projects": {
-    "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\Operator_Overloading_Example_With_Despose.csproj": {
+    "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\Operator_Overloading_Example_With_Despose.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\Operator_Overloading_Example_With_Despose.csproj",
+        "projectUniqueName": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\Operator_Overloading_Example_With_Despose.csproj",
         "projectName": "Operator_Overloading_Example_With_Despose",
-        "projectPath": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\Operator_Overloading_Example_With_Despose.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\obj\\",
+        "projectPath": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\Operator_Overloading_Example_With_Despose.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

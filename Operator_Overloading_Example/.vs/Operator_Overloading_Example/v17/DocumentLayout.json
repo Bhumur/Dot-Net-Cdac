@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\",
+  "WorkspaceRootPath": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{323B4C8E-6604-4D68-B117-88E9658B2005}|Operator_Overloading_Example\\Operator_Overloading_Example.csproj|e:\\cdac\\.net\\dot-net-cdac\\operator_overloading_example\\operator_overloading_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{323B4C8E-6604-4D68-B117-88E9658B2005}|Operator_Overloading_Example\\Operator_Overloading_Example.csproj|solutionrelative:operator_overloading_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{323B4C8E-6604-4D68-B117-88E9658B2005}|Operator_Overloading_Example\\Operator_Overloading_Example_With_Despose.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\operator_overloading_example\\operator_overloading_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B4C8E-6604-4D68-B117-88E9658B2005}|Operator_Overloading_Example\\Operator_Overloading_Example_With_Despose.csproj|solutionrelative:operator_overloading_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\Program.cs",
               "RelativeDocumentMoniker": "Operator_Overloading_Example\\Program.cs",
-              "ToolTip": "E:\\CDAC\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\Program.cs",
+              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\Operator_Overloading_Example\\Operator_Overloading_Example\\Program.cs",
               "RelativeToolTip": "Operator_Overloading_Example\\Program.cs",
-              "ViewState": "AgIAACYAAADYzczMzEw1wC4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T15:36:51.604Z",
               "EditorCaption": ""

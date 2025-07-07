@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApiShivansh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31532AA6-4504-46DC-B6B1-058297CB5E9B}|WebApiShivansh\\WebApiShivansh.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapishivansh\\webapishivansh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31532AA6-4504-46DC-B6B1-058297CB5E9B}|WebApiShivansh\\WebApiShivansh.csproj|solutionrelative:webapishivansh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31532AA6-4504-46DC-B6B1-058297CB5E9B}|WebApiShivansh\\WebApiShivansh.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapishivansh\\webapishivansh\\models\\actsjune25context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31532AA6-4504-46DC-B6B1-058297CB5E9B}|WebApiShivansh\\WebApiShivansh.csproj|solutionrelative:webapishivansh\\models\\actsjune25context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31532AA6-4504-46DC-B6B1-058297CB5E9B}|WebApiShivansh\\WebApiShivansh.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapishivansh\\webapishivansh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31532AA6-4504-46DC-B6B1-058297CB5E9B}|WebApiShivansh\\WebApiShivansh.csproj|solutionrelative:webapishivansh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31532AA6-4504-46DC-B6B1-058297CB5E9B}|WebApiShivansh\\WebApiShivansh.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapishivansh\\webapishivansh\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31532AA6-4504-46DC-B6B1-058297CB5E9B}|WebApiShivansh\\WebApiShivansh.csproj|solutionrelative:webapishivansh\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31532AA6-4504-46DC-B6B1-058297CB5E9B}|WebApiShivansh\\WebApiShivansh.csproj|c:\\users\\dac\\desktop\\batch1\\.net\\dot-net-cdac\\webapishivansh\\webapishivansh\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31532AA6-4504-46DC-B6B1-058297CB5E9B}|WebApiShivansh\\WebApiShivansh.csproj|solutionrelative:webapishivansh\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApiShivansh\\WebApiShivansh\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiShivansh\\Program.cs",
+              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApiShivansh\\WebApiShivansh\\Program.cs",
+              "RelativeToolTip": "WebApiShivansh\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:19:09.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApiShivansh\\WebApiShivansh\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiShivansh\\appsettings.json",
+              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApiShivansh\\WebApiShivansh\\appsettings.json",
+              "RelativeToolTip": "WebApiShivansh\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T17:18:53.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApiShivansh\\WebApiShivansh\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApiShivansh\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApiShivansh\\WebApiShivansh\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApiShivansh\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:18:02.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApiShivansh\\WebApiShivansh\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WebApiShivansh\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApiShivansh\\WebApiShivansh\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WebApiShivansh\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:15:14.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActsJune25Context.cs",
+              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApiShivansh\\WebApiShivansh\\Models\\ActsJune25Context.cs",
+              "RelativeDocumentMoniker": "WebApiShivansh\\Models\\ActsJune25Context.cs",
+              "ToolTip": "C:\\Users\\dac\\Desktop\\Batch1\\.Net\\Dot-Net-Cdac\\WebApiShivansh\\WebApiShivansh\\Models\\ActsJune25Context.cs",
+              "RelativeToolTip": "WebApiShivansh\\Models\\ActsJune25Context.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:13:34.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
